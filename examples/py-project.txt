@@ -1,0 +1,11 @@
+mypackage/
+    mypackage/
+        __init__.py
+        core.py
+        utils.py
+    tests/
+        test_core.py
+        test_utils.py
+    README.md
+    setup.py
+    pyproject.toml

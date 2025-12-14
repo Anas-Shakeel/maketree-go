@@ -1,0 +1,15 @@
+mycli/
+    README.md
+    go.mod
+    cmd/
+        mycli/
+            main.go
+    internal/
+        parser/
+            parser.go
+            tokenizer.go
+        generator/
+            generator.go
+    pkg/
+        version/
+            version.go

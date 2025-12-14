@@ -1,0 +1,11 @@
+website/
+    assets/
+        images/
+        fonts/
+    css/
+        style.css
+    js/
+        script.js
+    about.html
+    contact.html
+    index.html
