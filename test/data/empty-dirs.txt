@@ -1,0 +1,4 @@
+project/
+logs/
+tmp/
+data/

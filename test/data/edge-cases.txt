@@ -1,0 +1,7 @@
+file with spaces.txt
+another_file.TXT
+File without extension
+dir.with.dots/
+    nested file.md
+_hidden/
+    .config
