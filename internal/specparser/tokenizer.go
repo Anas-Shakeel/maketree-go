@@ -83,7 +83,6 @@ func tokenize(input string) (*[]Token, error) {
 		token.Level = (len(line) - len(strings.TrimLeft(line, " "))) / 4
 
 		tokens = append(tokens, token)
-		fmt.Println(token.String())
 	}
 
 	return &tokens, nil
